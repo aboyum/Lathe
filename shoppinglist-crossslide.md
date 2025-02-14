@@ -5,11 +5,13 @@ Ok, so you first need both a ballbearing roller and some rails at the length of 
 ### Ball screw
 1000mm for X-axis. Tip: Buy a set with ball bearing, and everything, then all match together
 400mm for Y axis. Tip: Buy a set with ball bearing, and everything, then all match together
+This cost about $50 to $100 for a set, regardless the lengt.
 
 ### Rails
 1000mm linear rail SBR20 for the X-axis (SBR20 is a 20mm thick rail) (perhaps SBR16 could do the thrick as well).
 400mm linear rail SBR20 for the Y-axis (perhaps SBR16 could do the thrick as well, espesially when it's a shorter distance).
 4 + 4 Bearing Blocks. These are often sold together with the rail, ensuring that they are fit together.
+A set of two rails and 5 bearing blocks typically cost about $50
 
 ### Tool post and tools
 
